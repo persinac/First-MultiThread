@@ -1,0 +1,4 @@
+This is my first Multi-Thread program in java, and in general.
+It converts binary notation to decimal notation. The numbers
+are hardcoded because I have not looked into dynamically creating
+threads.  
